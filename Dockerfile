@@ -1,1 +1,1 @@
-FROM 1panel/maxkb:latest
+FROM docker.io/1panel/maxkb:latest
