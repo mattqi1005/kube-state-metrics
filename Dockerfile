@@ -1,1 +1,1 @@
-FROM docker.io/1panel/maxkb:latest
+FROM langgenius/dify-api:0.15.3
